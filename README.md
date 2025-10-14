@@ -31,11 +31,16 @@ Or install manually:
 
 ## 📸 Screenshots
 
-![Price Chart Example](screenshots/price-chart.png)
-*See real price history with our clean, visual charts*
+![Price Charts] - *See real price history with our clean, visual charts*
 
-![Deal Alert](screenshots/deal-alert.png)
-*Get instant feedback on whether it's actually a good deal*
+![Deal Alert] - *Get instant feedback on whether it's actually a good deal*
+
+![Price Charts](screenshots/price-chart.png)
+
+![Price Charts](screenshots/price-chart.png)
+
+![Price Charts](screenshots/price-chart.png)
+
 
 ## 🤝 Why Trust QuickPrice?
 
