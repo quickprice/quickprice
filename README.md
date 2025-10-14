@@ -96,10 +96,6 @@ Never. We only track products you explicitly choose to watch, and we don't colle
 - ⚡ **99.9% uptime** on CloudFlare
 - ⭐ **4.7/5 average rating**
 
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
 ## 📝 License
 
 MIT License - see [LICENSE](LICENSE) file
