@@ -35,11 +35,11 @@ Or install manually:
 
 ![Deal Alert] - *Get instant feedback on whether it's actually a good deal*
 
-![Price Chart - Average Price](https://github.com/quickprice/quickprice/tree/main/screenshots/average-price.png)
+![Price Chart - Average Price](screenshots/average-price.png)
 
-![Price Chart - Above Average](https://github.com/quickprice/quickprice/tree/main/screenshots/above-average.png)
+![Price Chart - Above Average](screenshots/above-average.png)
 
-![Price Chart - Lowest Price](https://github.com/quickprice/quickprice/tree/main/screenshots/lowest-price.png)
+![Price Chart - Lowest Price](screenshots/lowest-price.png)
 
 
 ## 🤝 Why Trust QuickPrice?
