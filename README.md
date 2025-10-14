@@ -98,7 +98,7 @@ Never. We only track products you explicitly choose to watch, and we don't colle
 
 ## 📝 License
 
-MIT License - see [LICENSE](LICENSE) file
+MIT License - see [LICENSE](LICENSE.md) file
 
 ## 💬 Support
 
