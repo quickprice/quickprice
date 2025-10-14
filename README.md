@@ -2,9 +2,9 @@
 
 ### See if Amazon "deals" are actually good deals with real price history charts
 
-![Chrome Web Store](https://img.shields.io/chrome-web-store/users/quickprice-amazon-deal-ch)
-![Rating](https://img.shields.io/chrome-web-store/rating/quickprice-amazon-deal-ch)
-![Version](https://img.shields.io/chrome-web-store/v/quickprice-amazon-deal-ch)
+![Chrome Web Store](https://img.shields.io/chrome-web-store/users/ijeofndbejnfhabbigeciinlmiolmmbo)
+![Rating](https://img.shields.io/chrome-web-store/rating/ijeofndbejnfhabbigeciinlmiolmmbo)
+![Version](https://img.shields.io/chrome-web-store/v/ijeofndbejnfhabbigeciinlmiolmmbo)
 
 ## 📊 What QuickPrice Does
 
@@ -21,7 +21,7 @@ QuickPrice instantly shows you a product's 30-day price history right on Amazon'
 
 ## 🚀 Install
 
-**[Install from Chrome Web Store →](https://chrome.google.com/webstore/detail/quickprice-amazon-deal-ch)**
+**[Install from Chrome Web Store →](https://chrome.google.com/webstore/detail/ijeofndbejnfhabbigeciinlmiolmmbo)**
 
 Or install manually:
 1. Download this repository
@@ -102,4 +102,4 @@ MIT License - see [LICENSE](LICENSE) file
 
 **Built with ❤️ for smart shoppers who refuse to overpay**
 
-[Install Now](https://chrome.google.com/webstore/detail/quickprice-amazon-deal-ch) | [Report Issue](https://github.com/quickprice/quickprice/issues) | [Star on GitHub](https://github.com/quickprice/quickprice)
+[Install Now](https://chrome.google.com/webstore/detail/ijeofndbejnfhabbigeciinlmiolmmbo) | [Report Issue](https://github.com/quickprice/quickprice/issues) | [Star on GitHub](https://github.com/quickprice/quickprice)
