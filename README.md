@@ -35,11 +35,7 @@ Or install manually:
 
 ![Deal Alert] - *Get instant feedback on whether it's actually a good deal*
 
-![Price Chart - Average Price](screenshots/average-price.png)
-
-![Price Chart - Above Average](screenshots/above-average.png)
-
-![Price Chart - Lowest Price](screenshots/lowest-price.png)
+![Price Chart - Average Price](screenshots/average-price.png)  ![Price Chart - Above Average](screenshots/above-average.png)  ![Price Chart - Lowest Price](screenshots/lowest-price.png)
 
 
 ## 🤝 Why Trust QuickPrice?
