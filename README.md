@@ -89,12 +89,10 @@ We check real Amazon prices daily. For new products, we show clearly-labeled est
 **Do you sell my data?**
 Never. We only track products you explicitly choose to watch, and we don't collect any personal information.
 
-## 📈 Stats
-
-- 🛍️ Users saved **$284 average per year**
-- 📊 Tracking **50,000+ products**
-- ⚡ **99.9% uptime** on CloudFlare
-- ⭐ **4.7/5 average rating**
+## 📊 Current Status
+* 🚀 Newly launched on Chrome Web Store
+* ☁️ Powered by CloudFlare infrastructure
+* 🔧 Actively maintained and improving
 
 ## 📝 License
 
