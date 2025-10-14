@@ -36,12 +36,15 @@ Or install manually:
 ![Deal Alert] - *Get instant feedback on whether it's actually a good deal*
 
 **Average Price**
+
 ![Price Chart - Average Price](screenshots/average-price.png) 
 
 **Above Average**
+
 ![Price Chart - Above Average](screenshots/above-average.png) 
 
 **Lowest Price**
+
 ![Price Chart - Lowest Price](screenshots/lowest-price.png)
 
 
